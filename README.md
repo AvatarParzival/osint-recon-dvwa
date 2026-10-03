@@ -99,26 +99,6 @@ Passive reconnaissance, technology fingerprinting, service discovery, applicatio
 ├── README.md
 ├── OSINT and Reconnaissance Assessment Report v1.0.pdf
 └── screenshots/
-    ├── Evidence E-01.png
-    ├── Screenshot 2026-08-02 121849.png
-    ├── Screenshot 2026-08-02 124212.png
-    ├── Screenshot 2026-08-02 124252.png
-    ├── Screenshot 2026-08-02 130534.png
-    ├── Screenshot 2026-08-02 130551.png
-    ├── Screenshot 2026-08-02 132754.png
-    ├── Screenshot 2026-08-02 133331.png
-    ├── Screenshot 2026-08-02 135408.png
-    ├── Screenshot 2026-08-02 135428.png
-    ├── Screenshot 2026-08-02 135731.png
-    ├── Screenshot 2026-08-02 135750.png
-    ├── Screenshot 2026-08-02 135940.png
-    ├── Screenshot 2026-08-02 140002.png
-    ├── Screenshot 2026-08-02 140028.png
-    ├── Screenshot 2026-08-02 140400.png
-    ├── Screenshot 2026-08-02 140419.png
-    ├── Screenshot 2026-08-02 140436.png
-    ├── Screenshot 2026-08-02 140801.png
-    └── Screenshot 2026-08-02 141544.png
 ```
 
 ## Limitations
@@ -137,7 +117,6 @@ Passive reconnaissance, technology fingerprinting, service discovery, applicatio
 ## Author
 
 **Abdullah Zubair**  
-Cybersecurity | GRC | Security Automation
 - GitHub: [@AvatarParzival](https://github.com/AvatarParzival)
 - LinkedIn: [Abdullah Zubair](https://www.linkedin.com/in/abdullahzubairr)
 - Email: [abdullah69zubair@gmail.com](abdullah69zubair@gmail.com)
